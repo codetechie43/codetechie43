@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 ![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)(https://discord.gg/https://discord.com/invite/yfbmwNmQ) 
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)[(https://discord.gg/https://discord.com/invite/yfbmwNmQ)] 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white) 
 
