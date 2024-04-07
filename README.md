@@ -1,5 +1,6 @@
 # 💫 About Me:
 👨‍💻 Web developer and programmer passionate about crafting elegant solutions.<br>🔒 Cybersecurity enthusiast dedicated to safeguarding digital landscapes.<br>💻 Proficient in multiple programming languages and frameworks.<br>🌐 Building dynamic and responsive web applications is my forte.<br>🚀 Constantly exploring new technologies to stay ahead of the curve.<br>📚 Let's collaborate and innovate together for a secure and connected future!
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207..](https://tenor.com/view/hacking-gif-20202201)")
 
 
 
