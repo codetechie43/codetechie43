@@ -1,5 +1,6 @@
 # 💫 About Me:
 👨‍💻 Web developer and programmer passionate about crafting elegant solutions.<br>🔒 Cybersecurity enthusiast dedicated to safeguarding digital landscapes.<br>💻 Proficient in multiple programming languages and frameworks.<br>🌐 Building dynamic and responsive web applications is my forte.<br>🚀 Constantly exploring new technologies to stay ahead of the curve.<br>📚 Let's collaborate and innovate together for a secure and connected future!
+<img src"https://www.google.com/imgres?q=hacker%20loop%20image%20for%20github%20readme&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F588181932%2Fe36ec678-7984-4cdd-8e4c-a3932772ff8e&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Freadme-profile%3Fl%3Dmarkdown%26o%3Ddesc%26s%3D&docid=3JJ1XEgW7vkOIM&tbnid=kfpqCuXmfeFi9M&vet=12ahUKEwjVnrSvh7CFAxXTcWwGHRoKCMkQM3oECBMQAA..i&w=1600&h=700&hcb=2&ved=2ahUKEwjVnrSvh7CFAxXTcWwGHRoKCMkQM3oECBMQAA">
 
 
 ## 🌐 Socials:
