@@ -1,8 +1,6 @@
 # 💫 About Me:
 👨‍💻 Web developer and programmer passionate about crafting elegant solutions.<br>🔒 Cybersecurity enthusiast dedicated to safeguarding digital landscapes.<br>💻 Proficient in multiple programming languages and frameworks.<br>🌐 Building dynamic and responsive web applications is my forte.<br>🚀 Constantly exploring new technologies to stay ahead of the curve.<br>📚 Let's collaborate and innovate together for a secure and connected future!
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacking-gif-20202201">
-
 ## 🌐 Socials:
 ![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) 
