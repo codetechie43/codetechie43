@@ -1,9 +1,6 @@
 # 💫 About Me:
 👨‍💻 Web developer and programmer passionate about crafting elegant solutions.<br>🔒 Cybersecurity enthusiast dedicated to safeguarding digital landscapes.<br>💻 Proficient in multiple programming languages and frameworks.<br>🌐 Building dynamic and responsive web applications is my forte.<br>🚀 Constantly exploring new technologies to stay ahead of the curve.<br>📚 Let's collaborate and innovate together for a secure and connected future!
-<img
-  class="fit-picture"
-  src="/media/cc0-images/grapefruit-slice-332-332.jpg"
-  alt="Grapefruit slice atop a pile of other slices" />
+
 
 
 ## 🌐 Socials:
