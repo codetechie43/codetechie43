@@ -1,5 +1,21 @@
-# 💫 About Me:
-👨‍💻 Web developer and programmer passionate about crafting elegant solutions.<br>🔒 Cybersecurity enthusiast dedicated to safeguarding digital landscapes.<br>💻 Proficient in multiple programming languages and frameworks.<br>🌐 Building dynamic and responsive web applications is my forte.<br>🚀 Constantly exploring new technologies to stay ahead of the curve.<br>📚 Let's collaborate and innovate together for a secure and connected future!
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+<h1 align="center">Hi 👋, I'm Sujal Khade</h1>
+<h3 align="center">A passionate  Developer and  Cybersecurity enthuisiasts.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
+<br>
+
+ - 🔭 I’m currently working on **My 3d Portfolio**
+
+- 🌱 I’m currently learning **MERN**
+
+- 📫 How to reach me **sujalkhade767@gmail.com**
+
+ - 💬 Ask me about **Ml , Shell-scripting**
+
+- ⚡ Fun fact **I am Funny**
+  
+<br>
 
 ## 🌐 Socials:
 ![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
