@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **sujalkhade767@gmail.com**
+- 📫 How to reach me **(https://linktr.ee/sujalkhade)**
 
  - 💬 Ask me about **Ml , Shell-scripting**
 
